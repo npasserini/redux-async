@@ -1,0 +1,26 @@
+{
+  "name": "redux-async",
+  "version": "0.0.1",
+  "description": "Tools for handling asynchronous client-server communication in a redux application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/npasserini/redux-async.git"
+  },
+  "keywords": [
+    "redux",
+    "react",
+    "asynchronous",
+    "cache",
+    "http"
+  ],
+  "author": "npasserini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/npasserini/redux-async/issues"
+  },
+  "homepage": "https://github.com/npasserini/redux-async#readme"
+}
