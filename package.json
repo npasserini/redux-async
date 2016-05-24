@@ -1,14 +1,15 @@
 {
-  "name": "redux-async",
+  "name": "redux-transfer",
   "version": "0.0.1",
   "description": "Tools for handling asynchronous client-server communication in a redux application.",
   "main": "index.js",
+  "files": ["lib"],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/npasserini/redux-async.git"
+    "url": "git+ssh://git@github.com/npasserini/redux-transfer.git"
   },
   "keywords": [
     "redux",
@@ -20,7 +21,7 @@
   "author": "npasserini",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/npasserini/redux-async/issues"
+    "url": "https://github.com/npasserini/redux-transfer/issues"
   },
-  "homepage": "https://github.com/npasserini/redux-async#readme"
+  "homepage": "https://github.com/npasserini/redux-transfer#readme"
 }
